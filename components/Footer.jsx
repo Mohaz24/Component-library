@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className={`foot-theme-${theme}`}>
       <div className="footer">
-        <p>@copyright Mohaz 2023 </p>
+        <p>@copyright Mohz 2023 </p>
       </div>
     </footer>
   );
